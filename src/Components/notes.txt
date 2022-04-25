@@ -1,0 +1,22 @@
+
+// english, hindi.
+ // automate form validation
+  //use validator
+
+  // how node api are made, what goes in it(params like get(id)), what connections are made in it(mysql or mongo db), what data is passed to node(it is params), which type of standards are the api(get, post, put, delete)
+  //, kis type ke object api accept karti hai like array, json, aur return karti hai (json returns data, api accepts array and objects and api returns json object), kitni type ki api hoti hai
+  // (4 types ki)
+
+
+// custom hook
+
+
+  create a node project 
+
+ // note name is fireBase
+
+  fireBase type // it is not firbase type but name of project is firebase
+
+where u will have all  the apis
+
+and from react shoot ajax request to your node server 
